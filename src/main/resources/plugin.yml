@@ -1,0 +1,6 @@
+name: KanaoArena
+version: '${project.version}'
+main: fr.ariloxe.arena.ArenaAPI
+author: Ariloxe
+depend:
+  - KanaoCore
